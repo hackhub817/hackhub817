@@ -1,21 +1,40 @@
-<h1 align="center">Hi 👋, I'm Piyush Gupta</h1>
-<h3 align="center">Aspiring Software Developer and DSA Enthusiast from India</h3>
+# 🚀 Software Engineer | Full-Stack Developer | Tech Enthusiast
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966">
+Hello there! 👋 I'm a **Full-Stack Developer** specializing in **Node.js, React.js, Express.js, and MongoDB**. Experienced in building scalable, user-centric web applications with real-time systems and seamless frontend-backend integration.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hackhub817&label=Profile%20views&color=0e75b6&style=flat" alt="hackhub817" /> </p>
+---
 
-- 🔭 I’m currently studying computer science [Pizza Website](https://github.com/hackhub817/pizza_rest_apis-backend-)
+## 🛠 Tech Stack & Expertise
 
-- 🌱 I’m currently learning **Node.js, Express**
+### **Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-- 💬 Ask me about **Node.js, Data Structure and Algorithm**
+### **Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-- 📫 How to reach me **piyushguptaji123@gmail.com**
+### **Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 📄 Know about my experiences [https://bit.ly/45EleZ9](https://bit.ly/45EleZ9)
+### **Other Tools & Services**  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-002970?style=for-the-badge&logo=razorpay&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🔗 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/piyush-gupta-06b020213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-gupta-06b020213" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/codwin123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codwin123" height="30" width="40" /></a>
@@ -23,11 +42,52 @@
 <a href="https://auth.geeksforgeeks.org/user/piyushguptaji123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<piyushguptaji123>" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
+
+## 📌 Key Accomplishments
+
+✔ Developed a successful **referral-based website** with real-time payment integration (100+ active users).  
+✔ Built **3 dynamic dashboards (Vendor, User, Administrator)** to enhance user and admin experience.  
+✔ Created an **AI-powered Chrome extension** for website screenshots and report generation using OpenAI API.  
+✔ Developed a **real-time multiplayer game** with live leaderboards using **Socket.io**.  
+✔ Achieved **Gold position** in the **EdXR Challenge Hackathon** and reached the finals of **Smart India Hackathon 2022**.  
+✔ Streamlined **monthly report generation** and data export to Excel at AKS IT Services using **Java (Spring)**.  
+
+---
+
+## 🔥 Featured Projects
+
+📌 **[Portfolio](https://piyush-gupta-profile.vercel.app/)** –  Browse my portfolio of full-stack apps with Node.js and Next.js.  
+📌 **[BobnBuilder](https://love-bird.onrender.com/)** –  Built a personalized website generator for Valentine’s Week, with 100+ registrations and 35+ successful creations.  
+📌 **[ClickRace Arena](https://deploy-real-time-app.onrender.com/)** – Developed a real-time multiplayer game with live leaderboards using Socket.io for dynamic score tracking.  
+📌 **[ReferBiz Website](https://www.referbiz.in/)** – Developed a referral platform with 3 dashboards (Vendor, User, Admin) and real-time payments via **Socket.io** for instant transactions.   
+📌 **Kyuration Extension** – Created a Chrome extension for curating and sharing articles across 5+ social media platforms.  
+
+---
+
+## 💼 Work Experience
+
+### **Full Stack Developer | DiamondOre** _(Nov 2024 - Present)_
+📍 Noida, Uttar Pradesh, India  
+🔹 Leading full-stack development for a referral-based e-commerce platform with real-time payments using **Socket.io**.  
+🔹 Designed and implemented **3 unique dashboards (Vendor, User, Admin)** for efficient user management and operations.  
+
+### **Full Stack Developer Intern | Kuberanix** _(Nov 2024 - Jan 2025)_
+📍 Noida, Uttar Pradesh, India  
+🔹 Developed a **Chrome extension** for capturing website screenshots and generating AI-powered reports using the **OpenAI API**.  
+🔹 Worked on a bookmarking extension that allows users to save and share content across multiple platforms.  
+
+### **Software Developer Intern | AKS IT Services** _(Mar 2024 - Aug 2024)_
+📍 Noida, Uttar Pradesh, India  
+🔹 Developed a **Java (Spring)** tool to generate monthly reports and export database records to Excel.  
+🔹 Integrated a **Spring-based backend with a Next.js** frontend for a seamless compliance tool workflow.  
+
+🚀 **Let's build something amazing together!**
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackhub817&show_icons=true&locale=en&layout=compact" alt="hackhub817" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackhub817&show_icons=true&locale=en" alt="hackhub817" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackhub817&" alt="hackhub817" /></p>
+
