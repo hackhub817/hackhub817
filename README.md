@@ -30,7 +30,6 @@ Hello there! 👋 I'm a **Full-Stack Developer** specializing in **Node.js, Reac
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-002970?style=for-the-badge&logo=razorpay&logoColor=white)
 
 ---
 
