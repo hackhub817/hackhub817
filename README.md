@@ -72,7 +72,7 @@ Hello there! 👋 I'm a **Full-Stack Developer** specializing in **Node.js, Reac
 - Contributed to the development and maintenance of **enterprise-scale applications** using **Spring Boot, React.js, and Python**.  
 - Gained hands-on experience in building **scalable RESTful APIs** and collaborating in an agile team environment.  
 
-### **Full Stack Developer | DiamondOre** _(Nov 2024 – Present)_  
+### **Full Stack Developer | DiamondOre** _(Nov 2024 – Mar 2025)_  
 📍 Noida, Uttar Pradesh, India  
 - Leading full-stack development for a referral-based e-commerce platform with **real-time payments** using **Socket.io**.  
 - Designed and implemented **3 unique dashboards (Vendor, User, Admin)** for efficient user management and operations.  
