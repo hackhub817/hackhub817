@@ -64,22 +64,29 @@ Hello there! 👋 I'm a **Full-Stack Developer** specializing in **Node.js, Reac
 
 ---
 
-## 💼 Work Experience
+## 💼 Work Experience  
 
-### **Full Stack Developer | DiamondOre** _(Nov 2024 - Present)_
+### **System Engineer | Tata Consultancy Services (TCS)** _(Apr 2024 – Present)_  
 📍 Noida, Uttar Pradesh, India  
-🔹 Leading full-stack development for a referral-based e-commerce platform with real-time payments using **Socket.io**.  
-🔹 Designed and implemented **3 unique dashboards (Vendor, User, Admin)** for efficient user management and operations.  
+- Completed a **6-week ILP training** covering Python, SQL, Linux, and Java.  
+- Contributed to the development and maintenance of **enterprise-scale applications** using **Spring Boot, React.js, and Python**.  
+- Gained hands-on experience in building **scalable RESTful APIs** and collaborating in an agile team environment.  
 
-### **Full Stack Developer Intern | Kuberanix** _(Nov 2024 - Jan 2025)_
+### **Full Stack Developer | DiamondOre** _(Nov 2024 – Present)_  
 📍 Noida, Uttar Pradesh, India  
-🔹 Developed a **Chrome extension** for capturing website screenshots and generating AI-powered reports using the **OpenAI API**.  
-🔹 Worked on a bookmarking extension that allows users to save and share content across multiple platforms.  
+- Leading full-stack development for a referral-based e-commerce platform with **real-time payments** using **Socket.io**.  
+- Designed and implemented **3 unique dashboards (Vendor, User, Admin)** for efficient user management and operations.  
 
-### **Software Developer Intern | AKS IT Services** _(Mar 2024 - Aug 2024)_
+### **Full Stack Developer Intern | Kuberanix** _(Nov 2024 – Jan 2025)_  
 📍 Noida, Uttar Pradesh, India  
-🔹 Developed a **Java (Spring)** tool to generate monthly reports and export database records to Excel.  
-🔹 Integrated a **Spring-based backend with a Next.js** frontend for a seamless compliance tool workflow.  
+- Developed a **Chrome extension** for capturing website screenshots and generating **AI-powered reports** using the **OpenAI API**.  
+- Worked on a bookmarking extension that allows users to **save and share content** across multiple platforms.  
+
+### **Software Developer Intern | AKS IT Services** _(Mar 2024 – Aug 2024)_  
+📍 Noida, Uttar Pradesh, India  
+- Developed a **Java (Spring)** tool to generate monthly reports and export database records to Excel.  
+- Integrated a **Spring-based backend with a Next.js frontend** for a seamless compliance tool workflow.  
+
 
 🚀 **Let's build something amazing together!**
 
