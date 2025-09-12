@@ -2,7 +2,7 @@
 
 Hello there! 👋 I'm a **Full-Stack Developer** specializing in **Node.js, React.js, Express.js, and MongoDB**. Experienced in building scalable, user-centric web applications with real-time systems and seamless frontend-backend integration.
 
----
+-----
 
 ## 🛠 Tech Stack & Expertise
 
