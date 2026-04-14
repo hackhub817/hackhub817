@@ -26,22 +26,13 @@ const piyush: Developer = {
     role: "System Engineer @ Tata Consultancy Services",
     location: "Noida, India",
     education: "B.Tech CSE — KIET Group of Institutions (8.04 CGPA)",
-    
     currentWork: {
         company: "TCS",
         stack: ["Spring Boot", "Microservices", "Redis", "React"],
         impact: "70% faster response times • 40% query optimization"
     },
-    
     superpower: "Building scalable backend systems that handle real production load",
-    
-    leetcode: {
-        solved: "767+",
-        rating: 1804,
-        badge: "Knight ⚔️",
-        rank: "Top 7.59% globally"
-    },
-    
+    leetcode: { solved: "767+", rating: 1804, badge: "Knight ⚔️", rank: "Top 7.59%" },
     funFact: "I automated my own workflow by publishing an npm package 📦"
 };
 ```
@@ -51,46 +42,40 @@ const piyush: Developer = {
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
 <table align="center">
-<tr>
-<td align="center" width="25%">
+<tr><td align="center" width="25%">
 
-### 💻 Languages
+**💻 Languages**
+<br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</td><td align="center" width="25%">
 
-</td>
-<td align="center" width="25%">
-
-### ⚙️ Backend
+**⚙️ Backend**
+<br>
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+</td></tr>
+<tr><td align="center" width="25%">
 
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-
-### 🎨 Frontend
+**🎨 Frontend**
+<br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+</td><td align="center" width="25%">
 
-</td>
-<td align="center" width="25%">
-
-### 🗄️ Database & Tools
+**🗄️ Database & Tools**
+<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</td>
-</tr>
+</td></tr>
 </table>
 
 <p align="center">
@@ -108,100 +93,84 @@ const piyush: Developer = {
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Featured Projects
 
 <table>
-<tr>
-<td width="50%">
+<tr><td width="50%">
 
-### 🏗️ [TaskFlow](https://github.com/hackhub817/taskflow-piyush-gupta)
-> Enterprise-grade task management application
-
+**🏗️ [TaskFlow](https://github.com/hackhub817/taskflow-piyush-gupta)**
+<br>Enterprise-grade task management application
+<br><br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<br>
+✅ Role-based access control (RBAC)<br>
+✅ Real-time task updates<br>
+✅ Enterprise security patterns
+</td><td width="50%">
 
-- ✅ Role-based access control (RBAC)
-- ✅ Real-time task updates
-- ✅ Enterprise security patterns
-
-</td>
-<td width="50%">
-
-### 🎮 [ClickRace Arena](https://github.com/hackhub817/project-deploy)
-> Real-time competitive multiplayer game
-
+**🎮 [ClickRace Arena](https://github.com/hackhub817/project-deploy)** &nbsp; [![Live](https://img.shields.io/badge/▶_Live_Demo-238636?style=flat-square)](https://deploy-real-time-app.onrender.com/)
+<br>Real-time competitive multiplayer game
+<br><br>
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<br>
+⚡ Zero-latency live leaderboard<br>
+⚡ Dual dashboards (Analytics + Admin)<br>
+⚡ Concurrent multiplayer support
+</td></tr>
+<tr><td width="50%">
 
-- ⚡ Zero-latency live leaderboard
-- ⚡ Dual dashboards (Analytics + Admin)
-- ⚡ Concurrent multiplayer support
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 [BobnBuilder](https://github.com/hackhub817/full-stack-project)
-> Dynamic website generation engine
-
+**🌐 [BobnBuilder](https://github.com/hackhub817/full-stack-project)** &nbsp; [![Live](https://img.shields.io/badge/▶_Live_Demo-238636?style=flat-square)](https://love-bird.onrender.com/)
+<br>Dynamic website generation engine
+<br><br>
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+<br>
+🚀 50+ early users onboarded<br>
+🚀 Auto-deploy customized landing pages<br>
+🚀 Template validation engine
+</td><td width="50%">
 
-- 🚀 50+ early users onboarded
-- 🚀 Auto-deploy customized landing pages
-- 🚀 Template validation engine
+**🎓 [College Aur Corporate](https://collegeaurcorporate.com/)** &nbsp; [![Live](https://img.shields.io/badge/▶_Live_Site-238636?style=flat-square)](https://collegeaurcorporate.com/)
+<br>Mentorship platform for Tier-3 students
+<br><br>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Google Sheets](https://img.shields.io/badge/-Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+<br>
+🎯 Coding guidance & career mentorship<br>
+🎯 Smart MVP — Google Sheets as backend<br>
+🎯 Built for students, by engineers
+</td></tr>
+<tr><td width="50%">
 
-</td>
-<td width="50%">
-
-### 🧩 [Chrome Analyser](https://github.com/hackhub817/chrome-extension-analyser)
-> AI-powered Chrome extension
-
+**🧩 [Chrome Analyser](https://github.com/hackhub817/chrome-extension-analyser)**
+<br>AI-powered Chrome extension
+<br><br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Chrome](https://img.shields.io/badge/-Chrome_APIs-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+<br>
+🤖 AI-powered website analysis<br>
+🤖 Auto-generated reports<br>
+🤖 Screenshot capture + sharing
+</td><td width="50%">
 
-- 🤖 AI-powered website analysis
-- 🤖 Auto-generated reports
-- 🤖 Screenshot capture + sharing
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ☕ [QuizApp](https://github.com/hackhub817/QuizApp)
-> Spring Boot REST API
-
+**☕ [QuizApp](https://github.com/hackhub817/QuizApp)**
+<br>Spring Boot REST API for quiz management
+<br><br>
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-- 📝 Full CRUD quiz management
-- 📝 RESTful API architecture
-- 📝 Clean service-layer pattern
-
-</td>
-<td width="50%">
-
-### 💬 [Real-Time Chat](https://github.com/hackhub817/chat-app)
-> Instant messaging application
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-- 💬 Real-time bidirectional messaging
-- 💬 Online presence indicators
-- 💬 Message persistence
-
-</td>
-</tr>
+<br>
+📝 Full CRUD quiz management<br>
+📝 RESTful API architecture<br>
+📝 Clean service-layer pattern
+</td></tr>
 </table>
 
 ---
@@ -264,7 +233,6 @@ timeline
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackhub817&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 </p>
 
-<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hackhub817&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" width="95%"/>
 </p>
@@ -286,7 +254,6 @@ timeline
 <details>
 <summary>📬 <b>Connect With Me</b></summary>
 <br>
-
 <p align="center">
   <a href="https://piyush-gupta-profile.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/piyush-gupta-06b020213"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -294,7 +261,6 @@ timeline
   <a href="mailto:piyushguptaji123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.npmjs.com/package/create-setup-express-backend"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
 </p>
-
 </details>
 
 ---
