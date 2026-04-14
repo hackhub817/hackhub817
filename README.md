@@ -1,99 +1,72 @@
-# 🚀 Software Engineer | Full-Stack Developer | Tech Enthusiast
+<h1 align="center">Hi 👋, I'm Piyush Gupta</h1>
+<h3 align="center">Software Engineer @ TCS | Full-Stack Developer | 767+ LeetCode Problems</h3>
 
-Hello there! 👋 I'm a **Full-Stack Developer** specializing in **Node.js, React.js, Express.js, and MongoDB**. Experienced in building scalable, user-centric web applications with real-time systems and seamless frontend-backend integration.
-
------
-
-## 🛠 Tech Stack & Expertise
-
-### **Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### **Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **Other Tools & Services**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
----
-
-## 🔗 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/piyush-gupta-06b020213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-gupta-06b020213" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/codwin123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codwin123" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/sec_L_piyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sec_l_piyush" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/piyushguptaji123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<piyushguptaji123>" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://piyush-gupta-profile.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/piyush-gupta-06b020213" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/CodWin123/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
 
-## 📌 Key Accomplishments
+### 🧑‍💻 About Me
 
-✔ Developed a successful **referral-based website** with real-time payment integration (100+ active users).  
-✔ Built **3 dynamic dashboards (Vendor, User, Administrator)** to enhance user and admin experience.  
-✔ Created an **AI-powered Chrome extension** for website screenshots and report generation using OpenAI API.  
-✔ Developed a **real-time multiplayer game** with live leaderboards using **Socket.io**.  
-✔ Achieved **Gold position** in the **EdXR Challenge Hackathon** and reached the finals of **Smart India Hackathon 2022**.  
-✔ Streamlined **monthly report generation** and data export to Excel at AKS IT Services using **Java (Spring)**.  
-
----
-
-## 🔥 Featured Projects
-
-📌 **[Portfolio](https://piyush-gupta-profile.vercel.app/)** –  Browse my portfolio of full-stack apps with Node.js and Next.js.  
-📌 **[BobnBuilder](https://love-bird.onrender.com/)** –  Built a personalized website generator for Valentine’s Week, with 100+ registrations and 35+ successful creations.  
-📌 **[ClickRace Arena](https://deploy-real-time-app.onrender.com/)** – Developed a real-time multiplayer game with live leaderboards using Socket.io for dynamic score tracking.  
-📌 **[ReferBiz Website](https://www.referbiz.in/)** – Developed a referral platform with 3 dashboards (Vendor, User, Admin) and real-time payments via **Socket.io** for instant transactions.   
-📌 **Kyuration Extension** – Created a Chrome extension for curating and sharing articles across 5+ social media platforms.  
+- 🏢 System Engineer at **Tata Consultancy Services** — building microservices with Spring Boot & Redis
+- 🛠️ Previously built a **referral-based e-commerce platform** at DiamondOre with 100+ active users
+- ⚡ Published an **npm package** ([create-setup-express-backend](https://www.npmjs.com/package/create-setup-express-backend)) to automate Express project scaffolding
+- 🏆 **LeetCode Knight** — 767+ problems solved, rating 1804 (Top 7.59%)
+- 🥇 Smart India Hackathon 2022 Finalist | EdXR Hackathon Gold Medalist
 
 ---
 
-## 💼 Work Experience  
+### 🛠️ Tech Stack
 
-### **System Engineer | Tata Consultancy Services (TCS)** _(Apr 2024 – Present)_  
-📍 Noida, Uttar Pradesh, India  
-- Completed a **6-week ILP training** covering Python, SQL, Linux, and Java.  
-- Contributed to the development and maintenance of **enterprise-scale applications** using **Spring Boot, React.js, and Python**.  
-- Gained hands-on experience in building **scalable RESTful APIs** and collaborating in an agile team environment.  
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### **Full Stack Developer | DiamondOre** _(Nov 2024 – Mar 2025)_  
-📍 Noida, Uttar Pradesh, India  
-- Leading full-stack development for a referral-based e-commerce platform with **real-time payments** using **Socket.io**.  
-- Designed and implemented **3 unique dashboards (Vendor, User, Admin)** for efficient user management and operations.  
+**Backend**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### **Full Stack Developer Intern | Kuberanix** _(Nov 2024 – Jan 2025)_  
-📍 Noida, Uttar Pradesh, India  
-- Developed a **Chrome extension** for capturing website screenshots and generating **AI-powered reports** using the **OpenAI API**.  
-- Worked on a bookmarking extension that allows users to **save and share content** across multiple platforms.  
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### **Software Developer Intern | AKS IT Services** _(Mar 2024 – Aug 2024)_  
-📍 Noida, Uttar Pradesh, India  
-- Developed a **Java (Spring)** tool to generate monthly reports and export database records to Excel.  
-- Integrated a **Spring-based backend with a Next.js frontend** for a seamless compliance tool workflow.  
+**Databases & Tools**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+---
 
-🚀 **Let's build something amazing together!**
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hackhub817&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackhub817&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackhub817&show_icons=true&locale=en&layout=compact" alt="hackhub817" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackhub817&show_icons=true&locale=en" alt="hackhub817" /></p>
+### 📈 LeetCode Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackhub817&" alt="hackhub817" /></p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/CodWin123?theme=dark&font=Nunito&ext=contest" />
+</p>
 
+---
+
+### 🏆 Achievements
+
+- 🥇 **Gold Medal** — EdXR Challenge Hackathon (400€ prize)
+- 🏅 **SIH 2022 Finalist** — Smart India Hackathon, KLE College Karnataka
+- 🎯 **LeetCode Knight** — Peak rating 1804, 767+ problems solved
+- 🥇 **1st Prize** — College Innovation Competition with seed funding offer
