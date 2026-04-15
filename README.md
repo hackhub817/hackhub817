@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Piyush%20Gupta&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Piyush%20Gupta&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%92%BB+System+Engineer+%40+TCS;%F0%9F%8F%86+LeetCode+Knight+%7C+1804+Rating+%7C+767%2B+Problems;%E2%9A%A1+Spring+Boot+%C2%B7+Node.js+%C2%B7+React+%C2%B7+Microservices;%F0%9F%93%A6+Published+npm+Package+Author" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=150&lines=%F0%9F%92%BB+System+Engineer+%40+TCS;%F0%9F%8F%86+LeetCode+Knight+%7C+1804+Rating+%7C+767%2B+Problems;%E2%9A%A1+Spring+Boot+%C2%B7+Node.js+%C2%B7+React+%C2%B7+Microservices;%F0%9F%93%A6+Published+npm+Package+Author" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
