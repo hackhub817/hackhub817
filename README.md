@@ -28,7 +28,7 @@ const piyush: Developer = {
     education: "B.Tech CSE — KIET Group of Institutions (8.04 CGPA)",
     currentWork: {
         company: "TCS",
-        stack: ["Spring Boot", "Microservices", "Redis", "React"],
+        stack: ["Node.js", "Spring Boot", "Microservices", "Redis", "MongoDB, "Postgres", "React"],
         impact: "70% faster response times • 40% query optimization"
     },
     superpower: "Building scalable backend systems that handle real production load",
